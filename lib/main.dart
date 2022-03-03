@@ -1,6 +1,3 @@
-import 'dart:io';
-
-import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -35,6 +32,10 @@ class Counter extends StatelessWidget {
             Text('${count.c}',style: TextStyle(fontSize: 20),),
             SizedBox(height: 10,),
             Text('Text3',style: TextStyle(fontSize: 20),),
+            SizedBox(height: 10,),
+            Text('Text4',style: TextStyle(fontSize: 20),),
+            SizedBox(height: 10,),
+            Text('Text4',style: TextStyle(fontSize: 20),),
             SizedBox(height: 10,),
             Text('Text4',style: TextStyle(fontSize: 20),),
             SizedBox(height: 10,),
