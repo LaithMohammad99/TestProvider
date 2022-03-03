@@ -39,7 +39,12 @@ class Counter extends StatelessWidget {
             SizedBox(height: 10,),
             Text('Text4',style: TextStyle(fontSize: 20),),
             SizedBox(height: 10,),
+            Text('final',style: TextStyle(fontSize: 50),),
+
+
+
           ],
+
         ),
       ),
     );
